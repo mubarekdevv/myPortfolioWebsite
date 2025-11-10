@@ -15,7 +15,7 @@ A modern, responsive personal portfolio built with **Next.js** and **Tailwind CS
 - TypeScript
 
 ## 🌐 Live Demo
-[View Portfolio](https://myportfoliowebsite.vercel.app)
+[View Portfolio](https://mubarekjemal.vercel.app/)
 
 ---
 
