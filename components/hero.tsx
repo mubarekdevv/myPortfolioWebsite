@@ -126,19 +126,21 @@ export default function Hero() {
               >
                 Get In Touch
               </Button>
-              <a
-                href="/cv.pdf"
-                download
-                className="inline-flex w-full sm:w-auto"
-              >
-                <Button
-                  variant="outline"
-                  size="lg"
-                  className="text-lg px-8 border-accent text-accent hover:bg-accent hover:text-slate-900 transform hover:scale-105 transition-all duration-300 backdrop-blur-sm hover:shadow-[0_0_24px_rgba(0,245,255,0.55)] hover:font-semibold w-full sm:w-auto"
-                >
-                  Download CV
-                </Button>
-              </a>
+             <a
+  href="/Mubarek_Jemal_CV.pdf"
+  rel="noopener noreferrer"
+  className="inline-flex w-full sm:w-auto"
+>
+  <Button
+    variant="outline"
+    size="lg"
+    className="text-lg px-8 border-accent text-accent hover:bg-accent hover:text-slate-900 transform hover:scale-105 transition-all duration-300 backdrop-blur-sm hover:shadow-[0_0_24px_rgba(0,245,255,0.55)] hover:font-semibold w-full sm:w-auto"
+  >
+    View CV
+  </Button>
+</a>
+
+
             </div>
 
             <div className="flex gap-4 justify-center lg:justify-start">
