@@ -145,7 +145,7 @@ export default function Hero() {
 
             <div className="flex gap-4 justify-center lg:justify-start">
               <Link
-                href="https://github.com/mubarekdev"
+                href="https://github.com/mubarekdevv"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -158,7 +158,7 @@ export default function Hero() {
                 </Button>
               </Link>
               <Link
-                href="https://linkedin.com/in/mubarekdev"
+                href="https://www.linkedin.com/in/mubarek-hussein-9a192a386?trk=blended-typeahead"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -170,7 +170,7 @@ export default function Hero() {
                   <Linkedin className="h-5 w-5" />
                 </Button>
               </Link>
-              <Link href="mailto:mubarek@example.com">
+              <Link href="mailto:mubarekj71@gmail.com">
                 <Button
                   variant="outline"
                   size="icon"
