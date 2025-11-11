@@ -393,7 +393,7 @@ export default function About() {
                       Frontend Developer & Designer
                     </h5>
                     <p className="text-sm text-accent mb-2">
-                      Freelance • 2022 - Present
+                      Freelance • 2023 - Present
                     </p>
                     <p className="text-sm text-gray-300">
                       Developing modern web applications and creating
@@ -403,7 +403,7 @@ export default function About() {
                   <div className="border-l-2 border-gray-500 pl-4 hover:border-l-4 hover:border-accent transition-all duration-300">
                     <h5 className="font-semibold text-white">Web Developer</h5>
                     <p className="text-sm text-gray-400 mb-2">
-                      Tech Startup • 2021 - 2022
+                      Tech Startup • 2023 - 2024
                     </p>
                     <p className="text-sm text-gray-300">
                       Built responsive web applications and collaborated with
@@ -412,10 +412,10 @@ export default function About() {
                   </div>
                   <div className="border-l-2 border-gray-500 pl-4 hover:border-l-4 hover:border-accent transition-all duration-300">
                     <h5 className="font-semibold text-white">
-                      Computer Science Student
+                      Software Engineering Student
                     </h5>
                     <p className="text-sm text-gray-400 mb-2">
-                      University • 2019 - 2023
+                      University • 2022 - present
                     </p>
                     <p className="text-sm text-gray-300">
                       Focused on software development, algorithms, and user

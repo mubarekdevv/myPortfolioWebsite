@@ -93,7 +93,7 @@ export default function Contact() {
                   <h4 className="font-semibold text-lg text-white group-hover:text-accent transition-colors duration-300">
                     Email
                   </h4>
-                  <p className="text-gray-300">mubarek.dev@example.com</p>
+                  <p className="text-gray-300">mubarekj71@gmail.com</p>
                 </div>
               </div>
 
@@ -105,7 +105,7 @@ export default function Contact() {
                   <h4 className="font-semibold text-lg text-white group-hover:text-accent transition-colors duration-300">
                     Phone
                   </h4>
-                  <p className="text-gray-300">+1 (555) 123-4567</p>
+                  <p className="text-gray-300">+251 910 401-222</p>
                 </div>
               </div>
 
