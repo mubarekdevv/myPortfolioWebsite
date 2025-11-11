@@ -115,24 +115,6 @@ export default function Footer() {
           <p className="text-gray-400 mb-4 md:mb-0">
             © {currentYear} Mubarek Dev. All rights reserved.
           </p>
-          <div className="flex items-center gap-4 text-gray-400">
-            <span>Built with</span>
-            <Link
-              href="https://nextjs.org"
-              target="_blank"
-              className="hover:text-accent transition-colors flex items-center gap-1 transform hover:scale-105 duration-300"
-            >
-              Next.js <ExternalLink className="h-3 w-3" />
-            </Link>
-            <span>&</span>
-            <Link
-              href="https://tailwindcss.com"
-              target="_blank"
-              className="hover:text-accent transition-colors flex items-center gap-1 transform hover:scale-105 duration-300"
-            >
-              Tailwind CSS <ExternalLink className="h-3 w-3" />
-            </Link>
-          </div>
         </div>
       </div>
     </footer>
