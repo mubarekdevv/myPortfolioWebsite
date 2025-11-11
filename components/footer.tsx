@@ -16,14 +16,14 @@ export default function Footer() {
             </p>
             <div className="flex gap-4">
               <Link
-                href="https://github.com/mubarekdev"
+                href="https://github.com/mubarekdevv"
                 target="_blank"
                 className="hover:text-accent transition-all transform hover:scale-110 duration-300 hover:drop-shadow-[0_0_14px_rgba(0,245,255,0.9)]"
               >
                 <Github className="h-6 w-6" />
               </Link>
               <Link
-                href="https://linkedin.com/in/mubarekdev"
+                href="https://www.linkedin.com/in/mubarek-hussein-9a192a386/"
                 target="_blank"
                 className="hover:text-accent transition-all transform hover:scale-110 duration-300 hover:drop-shadow-[0_0_14px_rgba(0,245,255,0.9)]"
               >
@@ -37,7 +37,7 @@ export default function Footer() {
                 <Twitter className="h-6 w-6" />
               </Link>
               <Link
-                href="mailto:mubarek.dev@example.com"
+                href="mailto:mubarekj71@gmail.com"
                 className="hover:text-accent transition-all transform hover:scale-110 duration-300 hover:drop-shadow-[0_0_14px_rgba(0,245,255,0.9)]"
               >
                 <Mail className="h-6 w-6" />
