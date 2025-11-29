@@ -13,32 +13,27 @@ export interface Project {
 // This is where you'll add your new projects - just add them to this array!
 export const projects: Project[] = [
   {
-    id: 1,
-    title: "E-commerce Dashboard",
+    id: 2,
+    title: "Addis Ababa Couch Surfing",
     description:
-      "A comprehensive admin dashboard for managing online stores with real-time analytics, inventory management, and sales tracking.",
-    image: "./images/image.png",
-    category: "websites",
-    technologies: [
-      "React",
-      "Next.js",
-      "TypeScript",
-      "Tailwind CSS",
-      "Chart.js",
-    ],
-    liveUrl: "https://example.com",
-    githubUrl: "https://github.com/mubarekdev/ecommerce-dashboard",
+      "EthioStay couch surfing and hospitality exchange platform connecting travelers with local hosts in Addis Ababa, Ethiopia",
+    image: "./images/image.png?height=300&width=400",
+    category: "designs",
+    technologies: ["TypeScript", "Javascript", "CSS", "User Research"],
+    liveUrl: "https://ethio-stay-couch-surfing.vercel.app/",
+    githubUrl: "https://github.com/mubarekdevv/EthioStay-Couch-Surfing",
     featured: true,
   },
   {
-    id: 2,
-    title: "Mobile Banking App Design",
+    id: 1,
+    title: "Debt relief landing pages",
     description:
-      "Complete UI/UX design for a modern mobile banking application with intuitive user flows and secure transaction features.",
-    image: "/placeholder.svg?height=300&width=400",
-    category: "designs",
-    technologies: ["Figma", "Adobe XD", "Prototyping", "User Research"],
-    liveUrl: "https://figma.com/proto/banking-app",
+      "High-converting debt relief landing pages based on provided mockups. Includes responsive design, clean code structure, and easy customization.",
+    image: "./images/debtLanding.png?height=300&width=400",
+    category: "websites",
+    technologies: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    liveUrl: "https://awesome-dept-landing-pages.netlify.app/",
+    githubUrl: "https://github.com/mubarekdevv/clean-debt-landing-pages",
     featured: true,
   },
   {
@@ -55,14 +50,14 @@ export const projects: Project[] = [
   },
   {
     id: 4,
-    title: "2D Puzzle Adventure Game",
+    title: "Basketball-Scoreboard",
     description:
-      "An engaging puzzle adventure game built with HTML5 Canvas featuring multiple levels, character progression, and smooth animations.",
-    image: "/placeholder.svg?height=300&width=400",
+      "A scoreboard web app to track scores of two basketball teams with real-time UI updates.",
+    image: "./images/basketball.png?height=300&width=400",
     category: "games",
-    technologies: ["JavaScript", "HTML5 Canvas", "CSS3", "Web Audio API"],
-    liveUrl: "https://puzzle-adventure.com",
-    githubUrl: "https://github.com/mubarekdev/puzzle-game",
+    technologies: ["JavaScript", "HTML5 Canvas", "CSS3"],
+    liveUrl: "https://professional-basketball-scoreboard.netlify.app/",
+    githubUrl: "https://github.com/mubarekdevv/Basketball-Scoreboard",
   },
   {
     id: 5,
@@ -80,7 +75,7 @@ export const projects: Project[] = [
     title: "Add to Shopping List Mobile App",
     description:
       "A pro-level shopping list app with Firebase integration, animated UI, and custom alert modals. Built using HTML, CSS, JavaScript, Firebase Realtime Database, and SweetAlert.",
-    image: "/image.png?height=300&width=400",
+    image: "./images/shopping.png?height=300&width=400",
     category: "mobile",
     technologies: ["Javascript", "Firebase", "CSS", "HTML"],
     liveUrl: "https://add-to-shopping-list-app-mubarekj.netlify.app/",
