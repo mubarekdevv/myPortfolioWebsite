@@ -17,7 +17,7 @@ export const projects: Project[] = [
     title: "Addis Ababa Couch Surfing",
     description:
       "EthioStay couch surfing and hospitality exchange platform connecting travelers with local hosts in Addis Ababa, Ethiopia",
-    image: "./images/image.png?height=300&width=400",
+    image: "./images/AddisCouchSurfing.png?height=300&width=400",
     category: "designs",
     technologies: ["TypeScript", "Javascript", "CSS", "User Research"],
     liveUrl: "https://ethio-stay-couch-surfing.vercel.app/",
@@ -38,14 +38,14 @@ export const projects: Project[] = [
   },
   {
     id: 3,
-    title: "Task Management App",
+    title: "Study Focus Companion",
     description:
-      "A collaborative task management application with real-time updates, team features, and project tracking capabilities.",
-    image: "/placeholder.svg?height=300&width=400",
+      "Simple productivity tracker web app I built using HTML, CSS, and JavaScript. It allows students to log moments of distraction during study sessions and calculates the estimated time lost. It serves as a self-awareness tool to encourage better time management.",
+    image: "./images/image.png?height=300&width=400",
     category: "apps",
     technologies: ["React", "Node.js", "Socket.io", "MongoDB", "Express"],
-    liveUrl: "https://taskmanager-demo.com",
-    githubUrl: "https://github.com/mubarekdev/task-manager",
+    liveUrl: "https://distraction-logger-mubarekonstudypool.netlify.app/",
+    githubUrl: "https://github.com/mubarekdevv/distraction-logger-for-students",
     featured: true,
   },
   {
@@ -83,13 +83,14 @@ export const projects: Project[] = [
   },
   {
     id: 7,
-    title: "Brand Identity Design System",
+    title: "Hope E-commerce Design",
     description:
-      "Complete brand identity and design system including logo, color palette, typography, and component library for a tech startup.",
-    image: "/placeholder.svg?height=300&width=400",
+      " E-commerce Website allowing parents and guardians to conveniently purchase educational books, uniforms, and other school supplies for their children.",
+    image: "./images/hopeEcommerce.png?height=300&width=400",
     category: "designs",
-    technologies: ["Adobe Illustrator", "Photoshop", "Figma", "Design Systems"],
-    liveUrl: "https://behance.net/brand-identity",
+    technologies: ["Figma", "Adobe Illustrator", "Photoshop", "Design Systems"],
+    liveUrl:
+      "https://www.figma.com/design/1rJjkmnoYNvYHTPm6ajtjj/Major-Design-Tutorial?node-id=195-72&p=f&t=wfwJkL39DJYyiPIo-0",
   },
   {
     id: 8,
@@ -104,14 +105,14 @@ export const projects: Project[] = [
   },
   {
     id: 9,
-    title: "Portfolio Website Template",
+    title: "Math Expert Portfolio",
     description:
-      "A modern, responsive portfolio website template for developers and designers with customizable sections and dark mode.",
-    image: "/placeholder.svg?height=300&width=400",
+      "A responsive web application for tutoring, featuring interactive lessons, practice exercises, and Lottie animations built with Next.js and React.",
+    image: "./images/math.png?height=300&width=400",
     category: "websites",
-    technologies: ["Next.js", "Tailwind CSS", "Framer Motion", "MDX"],
-    liveUrl: "https://portfolio-template.com",
-    githubUrl: "https://github.com/mubarekdev/portfolio-template",
+    technologies: ["Next.js", "Tailwind CSS", "React"],
+    liveUrl: "https://mubarek-math-expert.vercel.app/",
+    githubUrl: "https://github.com/mubarekdevv/tutor-website",
   },
   {
     id: 10,
