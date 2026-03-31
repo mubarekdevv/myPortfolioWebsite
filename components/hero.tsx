@@ -127,7 +127,7 @@ export default function Hero() {
                 Get In Touch
               </Button>
              <a
-  href="/Mubarek_Jemal_CV.pdf"
+  href="/Mubarek_Jemal_CVAd.pdf"
   rel="noopener noreferrer"
   className="inline-flex w-full sm:w-auto"
 >
@@ -170,7 +170,7 @@ export default function Hero() {
                   <Linkedin className="h-5 w-5" />
                 </Button>
               </Link>
-              <Link href="mailto:mubarekj71@gmail.com">
+              <Link href="mailto:mubarekh80@gmail.com">
                 <Button
                   variant="outline"
                   size="icon"
@@ -180,7 +180,7 @@ export default function Hero() {
                 </Button>
               </Link>
               <Link
-                href="https://mubarekdev.pages.dev/"
+                href="https://mubarekjemal.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
               >

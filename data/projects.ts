@@ -17,6 +17,18 @@ export const projects: Project[] = [
     title: "Addis Ababa Couch Surfing",
     description:
       "EthioStay couch surfing and hospitality exchange platform connecting travelers with local hosts in Addis Ababa, Ethiopia",
+    image: "./images/image.png?height=300&width=400",
+    category: "designs",
+    technologies: ["TypeScript", "Javascript", "CSS", "User Research"],
+    liveUrl: "https://ethio-stay-couch-surfing.vercel.app/",
+    githubUrl: "https://github.com/mubarekdevv/EthioStay-Couch-Surfing",
+    featured: true,
+  },
+  {
+    id: 2,
+    title: "Addis Ababa Couch Surfing",
+    description:
+      "EthioStay couch surfing and hospitality exchange platform connecting travelers with local hosts in Addis Ababa, Ethiopia",
     image: "./images/AddisCouchSurfing.png?height=300&width=400",
     category: "designs",
     technologies: ["TypeScript", "Javascript", "CSS", "User Research"],
@@ -41,7 +53,7 @@ export const projects: Project[] = [
     title: "Study Focus Companion",
     description:
       "Simple productivity tracker web app I built using HTML, CSS, and JavaScript. It allows students to log moments of distraction during study sessions and calculates the estimated time lost. It serves as a self-awareness tool to encourage better time management.",
-    image: "./images/image.png?height=300&width=400",
+    image: "./images/studyFocus.png?height=300&width=400",
     category: "apps",
     technologies: ["React", "Node.js", "Socket.io", "MongoDB", "Express"],
     liveUrl: "https://distraction-logger-mubarekonstudypool.netlify.app/",
